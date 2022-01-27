@@ -1,0 +1,2 @@
+# Data-Scientists-Salaries
+We use a dataset containing 2,578 Data Scientists salary records from top companies originally sourced from levels.fyi. We will analyze how much Data Scientists earn with respect to their experience, gender, race and education. Furthermore, we will visualize which companies or locations offer better packages to Data Scientists. Exploratory analysis methods and visualization tools like choropleth maps will be used.
